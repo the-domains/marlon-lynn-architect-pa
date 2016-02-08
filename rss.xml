@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marlon Lynn Architect, PA]]></title>
         <description><![CDATA[Marlon Lynn Architect, PA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marlon-lynn-architect-pa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 20:12:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 20:12:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marlon-lynn-architect-pa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services Provided:]]></title>
+            <description><![CDATA[<article><h1>Services Provided:</h1><p>Existing Conditions Analysis  </p></article>]]></description>
+            <link>https://thegrid.ai/marlon-lynn-architect-pa/services-provided/index.html</link>
+            <guid isPermaLink="false">a9e15f4b-fa30-4429-b3f7-7c1e8fb84301</guid>
+            <pubDate>Mon, 08 Feb 2016 20:12:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/484b8e14-45e0-4b94-8eb0-b8a6cf9d7836.png">]]></description>
-            <link>undefinedebcee1d6-6045-49cd-9f32-983860767dcb/index.html</link>
+            <link>https://thegrid.ai/marlon-lynn-architect-pa/ebcee1d6-6045-49cd-9f32-983860767dcb/index.html</link>
             <guid isPermaLink="false">ebcee1d6-6045-49cd-9f32-983860767dcb</guid>
             <pubDate>Mon, 08 Feb 2016 20:12:06 GMT</pubDate>
         </item>
