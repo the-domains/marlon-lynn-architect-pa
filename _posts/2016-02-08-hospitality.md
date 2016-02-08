@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T21:05:19.238Z'
-dateModified: '2016-02-08T21:05:07.294Z'
+datePublished: '2016-02-08T21:09:59.983Z'
+dateModified: '2016-02-08T21:09:27.940Z'
 title: Hospitality
 author: []
+sourcePath: _posts/2016-02-08-hospitality.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-hospitality.md
-published: true
 url: hospitality/index.html
 _type: Article
 
