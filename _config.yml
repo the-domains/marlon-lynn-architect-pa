@@ -1,6 +1,6 @@
 name: 'Marlon Lynn Architect, PA'
 favicon: null
-layout_spectrum: 0.6499242556747049
+layout_spectrum: 0.41869
 typography_spectrum: 0.961144324624911
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.016846109181642532
-  lightness: 0.08952494757249951
-  saturation: 0.8642482184804976
+    - '#ee3c24'
+    - '#ffffff'
+    - '#000000'
+    - '#9c2717'
+    - '#f7a59a'
+  brandStrength: 0.5625
+  lightness: 0.375
+  saturation: 0.8125
   rhythmicContrast: 0.32914224546402693
 purpose: []
