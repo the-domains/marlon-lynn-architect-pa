@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T20:12:06.250Z'
-dateModified: '2016-02-08T19:37:16.702Z'
+datePublished: '2016-02-08T21:10:15.523Z'
+dateModified: '2016-02-08T21:10:11.233Z'
 title: 'Services Provided:'
 author: []
+sourcePath: _posts/2016-02-08-services-provided.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-services-provided.md
-published: true
 url: services-provided/index.html
 _type: Article
 
