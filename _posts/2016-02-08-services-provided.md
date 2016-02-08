@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T21:10:15.523Z'
-dateModified: '2016-02-08T21:10:11.233Z'
-title: 'Services Provided:'
+datePublished: '2016-02-08T21:12:53.763Z'
+dateModified: '2016-02-08T21:12:52.143Z'
+title: Services Provided
 author: []
 sourcePath: _posts/2016-02-08-services-provided.md
 published: true
@@ -22,7 +22,7 @@ url: services-provided/index.html
 _type: Article
 
 ---
-# Services Provided:
+# Services Provided
 
 Existing Conditions Analysis  
 
