@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T21:09:59.983Z'
-dateModified: '2016-02-08T21:09:27.940Z'
+datePublished: '2016-02-08T21:32:30.704Z'
+dateModified: '2016-02-08T21:32:27.153Z'
 title: Hospitality
 author: []
 sourcePath: _posts/2016-02-08-hospitality.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Hospitality
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d32d76a-4d0a-4056-a468-57cde6f5dd33.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c06588c-4680-433c-852d-0bef9cafd930.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf781362-20d6-447d-a5eb-829b9d1dcbb9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac52e95f-9325-4307-a786-0dd980d97897.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb0839956cb14e96b451a0ef4c5e54ef1b353886.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6d62f8b79b77a9f41000a39b4bc758f586af68f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c72995e95d5a8ce7ab0407501af73bb148dcf35.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/50650b9866da03e6fd9718217b0663d40570e53c.jpg)
