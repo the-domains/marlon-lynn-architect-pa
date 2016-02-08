@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T20:23:09.323Z'
-dateModified: '2016-02-08T20:22:55.370Z'
+datePublished: '2016-02-08T21:09:56.595Z'
+dateModified: '2016-02-08T21:09:50.400Z'
 title: Residential Design
 author: []
 sourcePath: _posts/2016-02-08-residential-design.md
